@@ -15,6 +15,7 @@ In this file different commands and their function will be kept.
 	- pull
 		- Downloads the current version of the repo
 	- push
+		- Update the collaborative repo with the local changes made
 	
 	- add
 	
