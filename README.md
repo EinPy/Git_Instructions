@@ -12,7 +12,9 @@ In this file different commands and their function will be kept.
 	- clone
 		- used "git clone <link>" This downloads a copy of online repo
 		  that can be worked on locally
-	- push
 	- pull
+		- Downloads the current version of the repo
+	- push
+	
 	- add
 	
